@@ -5,7 +5,8 @@
 #
 ## Linguagens Estudadas até agora
 
-- ### Front End
-    - HTML
-    - CSS
-    - JavaScript
+> # No Front-end:
+> [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" width="60"></a>](./trilha-html/README.md)
+> # No Back-end
+> Ainda Nada
+
