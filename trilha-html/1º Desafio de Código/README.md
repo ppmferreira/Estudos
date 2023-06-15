@@ -12,7 +12,11 @@ Bom o Objetivo desse Desafio era entender a estrutura bem básica do HTML, utili
 
 - ### **Minha opnião sobre o desafio**
 
-Bom achei o desafio legal, deu para relembrar oque cada TAG faz, mas achei chato a parte de repesquisar, tive que reassistir algumas aulas pra lembrar, escrever textos em si não é muito meu forte gosto mais da parte do Código. Se bem que estou documentando toda a jornada Hahaha. Enf
+Bom achei o desafio legal, deu para relembrar oque cada TAG faz, mas achei chato a parte de repesquisar, tive que reassistir algumas aulas pra lembrar, escrever textos em si não é muito meu forte gosto mais da parte do Código. Se bem que estou documentando toda a jornada Hahaha.
+
+- ### **Como Conferir?**
+
+Então, basta [Clicar Aqui](./index.html) e ver o código. não tem nada demais somente o Básico de HTML.
 
 ---
 ### Índice:
